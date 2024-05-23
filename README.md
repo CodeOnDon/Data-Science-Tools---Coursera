@@ -1,11 +1,12 @@
 # Data-Science-Practice-Projects
-## Data Science Tools
+## 1) Data Science Tools
 Final Assignment in the first course of the IBM Data Science Program.
 
-## Data Analysis with Python
+## 2) Data Analysis with Python
 Final project using Python to analyze real world data.
 
-**_Scenario_**
+**_Scenario_**  
+
 We are assuming the role of a Data Analyst working at a real estate investment trust organization who wants to start investing in residential real estate. We are given a given a dataset containing detailed information about house prices in the region based on a number of property features, and it will be our job to analyze and predict the market price of houses given that information.
 
 **_Learning Objectives_**
