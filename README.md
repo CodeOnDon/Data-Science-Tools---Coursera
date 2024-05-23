@@ -1,5 +1,5 @@
 # Data-Science-Practice-Projects
-## 1) Data Science Tools
+## 1) Data Science Ecosystem
 Final Assignment in the first course of the IBM Data Science Program.
 
 ## 2) Data Analysis with Python
